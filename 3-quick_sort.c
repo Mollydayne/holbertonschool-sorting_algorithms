@@ -19,28 +19,13 @@ void swap(int *a, int *b)
 
 
 /**
- * quick_sort - Sorts an array of integers in ascending order
- *              using the Quick sort algorithm.
+ * quick_sort - function that sorts an array of integers
+ * in ascending order using the Quick sort algorithm
  * @array: Pointer to the array of integers to be sorted.
  * @size: The size of the array.
- *
- * Description: This function implements the Quick sort algorithm.
- *
- *
- * Return: None.
  */
 
 void quick_sort(int *array, size_t size)
-
 {
-
-    sinze_t pivot = 0;
-
-    if (array == NULL || size < 2)
-    {
-        return;
-    }
-
-    
-
+	
 }
